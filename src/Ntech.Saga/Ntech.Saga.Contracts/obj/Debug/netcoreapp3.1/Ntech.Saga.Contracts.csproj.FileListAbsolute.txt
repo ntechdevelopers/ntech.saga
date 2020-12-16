@@ -1,0 +1,8 @@
+E:\LocalGit\NtechAzure\ntech.saga\src\Ntech.Saga\Ntech.Saga.Contracts\bin\Debug\netcoreapp3.1\Ntech.Saga.Contracts.deps.json
+E:\LocalGit\NtechAzure\ntech.saga\src\Ntech.Saga\Ntech.Saga.Contracts\bin\Debug\netcoreapp3.1\Ntech.Saga.Contracts.dll
+E:\LocalGit\NtechAzure\ntech.saga\src\Ntech.Saga\Ntech.Saga.Contracts\bin\Debug\netcoreapp3.1\Ntech.Saga.Contracts.pdb
+E:\LocalGit\NtechAzure\ntech.saga\src\Ntech.Saga\Ntech.Saga.Contracts\obj\Debug\netcoreapp3.1\Ntech.Saga.Contracts.csprojAssemblyReference.cache
+E:\LocalGit\NtechAzure\ntech.saga\src\Ntech.Saga\Ntech.Saga.Contracts\obj\Debug\netcoreapp3.1\Ntech.Saga.Contracts.AssemblyInfoInputs.cache
+E:\LocalGit\NtechAzure\ntech.saga\src\Ntech.Saga\Ntech.Saga.Contracts\obj\Debug\netcoreapp3.1\Ntech.Saga.Contracts.AssemblyInfo.cs
+E:\LocalGit\NtechAzure\ntech.saga\src\Ntech.Saga\Ntech.Saga.Contracts\obj\Debug\netcoreapp3.1\Ntech.Saga.Contracts.dll
+E:\LocalGit\NtechAzure\ntech.saga\src\Ntech.Saga\Ntech.Saga.Contracts\obj\Debug\netcoreapp3.1\Ntech.Saga.Contracts.pdb

@@ -1,0 +1,11 @@
+E:\LocalGit\NtechAzure\ntech.saga\src\Ntech.Saga\Ntech.Saga.Workflow\bin\Debug\netcoreapp3.1\Ntech.Saga.Workflow.deps.json
+E:\LocalGit\NtechAzure\ntech.saga\src\Ntech.Saga\Ntech.Saga.Workflow\bin\Debug\netcoreapp3.1\Ntech.Saga.Workflow.dll
+E:\LocalGit\NtechAzure\ntech.saga\src\Ntech.Saga\Ntech.Saga.Workflow\bin\Debug\netcoreapp3.1\Ntech.Saga.Workflow.pdb
+E:\LocalGit\NtechAzure\ntech.saga\src\Ntech.Saga\Ntech.Saga.Workflow\bin\Debug\netcoreapp3.1\Ntech.Saga.Contracts.dll
+E:\LocalGit\NtechAzure\ntech.saga\src\Ntech.Saga\Ntech.Saga.Workflow\bin\Debug\netcoreapp3.1\Ntech.Saga.Contracts.pdb
+E:\LocalGit\NtechAzure\ntech.saga\src\Ntech.Saga\Ntech.Saga.Workflow\obj\Debug\netcoreapp3.1\Ntech.Saga.Workflow.csprojAssemblyReference.cache
+E:\LocalGit\NtechAzure\ntech.saga\src\Ntech.Saga\Ntech.Saga.Workflow\obj\Debug\netcoreapp3.1\Ntech.Saga.Workflow.AssemblyInfoInputs.cache
+E:\LocalGit\NtechAzure\ntech.saga\src\Ntech.Saga\Ntech.Saga.Workflow\obj\Debug\netcoreapp3.1\Ntech.Saga.Workflow.AssemblyInfo.cs
+E:\LocalGit\NtechAzure\ntech.saga\src\Ntech.Saga\Ntech.Saga.Workflow\obj\Debug\netcoreapp3.1\Ntech.Saga.Workflow.csproj.CopyComplete
+E:\LocalGit\NtechAzure\ntech.saga\src\Ntech.Saga\Ntech.Saga.Workflow\obj\Debug\netcoreapp3.1\Ntech.Saga.Workflow.dll
+E:\LocalGit\NtechAzure\ntech.saga\src\Ntech.Saga\Ntech.Saga.Workflow\obj\Debug\netcoreapp3.1\Ntech.Saga.Workflow.pdb

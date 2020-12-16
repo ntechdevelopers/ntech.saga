@@ -1,0 +1,208 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\LocalGit\\NtechAzure\\ntech.saga\\src\\Ntech.Saga\\Ntech.Saga.Service.Console\\Ntech.Saga.Service.Console.csproj": {}
+  },
+  "projects": {
+    "E:\\LocalGit\\NtechAzure\\ntech.saga\\src\\Ntech.Saga\\Ntech.Saga.Contracts\\Ntech.Saga.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\LocalGit\\NtechAzure\\ntech.saga\\src\\Ntech.Saga\\Ntech.Saga.Contracts\\Ntech.Saga.Contracts.csproj",
+        "projectName": "Ntech.Saga.Contracts",
+        "projectPath": "E:\\LocalGit\\NtechAzure\\ntech.saga\\src\\Ntech.Saga\\Ntech.Saga.Contracts\\Ntech.Saga.Contracts.csproj",
+        "packagesPath": "C:\\Users\\namvut\\.nuget\\packages\\",
+        "outputPath": "E:\\LocalGit\\NtechAzure\\ntech.saga\\src\\Ntech.Saga\\Ntech.Saga.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\namvut\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MassTransit": {
+              "target": "Package",
+              "version": "[5.3.2, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[5.3.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\LocalGit\\NtechAzure\\ntech.saga\\src\\Ntech.Saga\\Ntech.Saga.Service.Console\\Ntech.Saga.Service.Console.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\LocalGit\\NtechAzure\\ntech.saga\\src\\Ntech.Saga\\Ntech.Saga.Service.Console\\Ntech.Saga.Service.Console.csproj",
+        "projectName": "Ntech.Saga.Service.Console",
+        "projectPath": "E:\\LocalGit\\NtechAzure\\ntech.saga\\src\\Ntech.Saga\\Ntech.Saga.Service.Console\\Ntech.Saga.Service.Console.csproj",
+        "packagesPath": "C:\\Users\\namvut\\.nuget\\packages\\",
+        "outputPath": "E:\\LocalGit\\NtechAzure\\ntech.saga\\src\\Ntech.Saga\\Ntech.Saga.Service.Console\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\namvut\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\LocalGit\\NtechAzure\\ntech.saga\\src\\Ntech.Saga\\Ntech.Saga.Contracts\\Ntech.Saga.Contracts.csproj": {
+                "projectPath": "E:\\LocalGit\\NtechAzure\\ntech.saga\\src\\Ntech.Saga\\Ntech.Saga.Contracts\\Ntech.Saga.Contracts.csproj"
+              },
+              "E:\\LocalGit\\NtechAzure\\ntech.saga\\src\\Ntech.Saga\\Ntech.Saga.Workflow\\Ntech.Saga.Workflow.csproj": {
+                "projectPath": "E:\\LocalGit\\NtechAzure\\ntech.saga\\src\\Ntech.Saga\\Ntech.Saga.Workflow\\Ntech.Saga.Workflow.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\LocalGit\\NtechAzure\\ntech.saga\\src\\Ntech.Saga\\Ntech.Saga.Workflow\\Ntech.Saga.Workflow.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\LocalGit\\NtechAzure\\ntech.saga\\src\\Ntech.Saga\\Ntech.Saga.Workflow\\Ntech.Saga.Workflow.csproj",
+        "projectName": "Ntech.Saga.Workflow",
+        "projectPath": "E:\\LocalGit\\NtechAzure\\ntech.saga\\src\\Ntech.Saga\\Ntech.Saga.Workflow\\Ntech.Saga.Workflow.csproj",
+        "packagesPath": "C:\\Users\\namvut\\.nuget\\packages\\",
+        "outputPath": "E:\\LocalGit\\NtechAzure\\ntech.saga\\src\\Ntech.Saga\\Ntech.Saga.Workflow\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\namvut\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\LocalGit\\NtechAzure\\ntech.saga\\src\\Ntech.Saga\\Ntech.Saga.Contracts\\Ntech.Saga.Contracts.csproj": {
+                "projectPath": "E:\\LocalGit\\NtechAzure\\ntech.saga\\src\\Ntech.Saga\\Ntech.Saga.Contracts\\Ntech.Saga.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Automatonymous": {
+              "target": "Package",
+              "version": "[4.1.6, )"
+            },
+            "MassTransit": {
+              "target": "Package",
+              "version": "[5.3.2, )"
+            },
+            "MassTransit.Automatonymous": {
+              "target": "Package",
+              "version": "[5.3.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

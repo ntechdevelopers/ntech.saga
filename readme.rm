@@ -1,0 +1,4 @@
+Matransit Saga State Machine Microservice
+
+cd E:\LocalGit\NtechAzure\ntech.saga
+docker-compose -f docker-compose.yml -f docker-compose.override.yml up -d --build
