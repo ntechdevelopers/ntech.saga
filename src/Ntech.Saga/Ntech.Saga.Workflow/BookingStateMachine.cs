@@ -101,8 +101,7 @@ namespace Ntech.Saga.Workflow
 
             During(Cancelled,
                  Ignore(CreateBookingCommandReceived),
-                 Ignore(BookingRequestReceived),
-                 When(BookingRequestReceived).Then(context =>
+                 When(BookingCancelled).Then(context =>
                  {
                      Console.WriteLine("*********************** Cancelled => Final ***********************");
                  })

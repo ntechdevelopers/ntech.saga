@@ -3,7 +3,7 @@ using Ntech.Saga.Contracts;
 
 namespace Ntech.Saga.Workflow
 {
-    public class BookingRequestCancelledEvent : IBookingRequestReceivedEvent
+    public class BookingRequestCancelledEvent : IBookingCancelledEvent
     {
         private readonly BookingSagaState _reportSagaState;
         public BookingRequestCancelledEvent(BookingSagaState reportSagaState)
@@ -15,6 +15,6 @@ namespace Ntech.Saga.Workflow
 
         public string CustomerId => _reportSagaState.CustomerId;
         public string BookingId => _reportSagaState.BookingId;
-        public DateTime RequestTime => _reportSagaState.RequestTime;
+        public DateTime CancelledTime => _reportSagaState.RequestTime;
     }
 }
